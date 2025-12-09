@@ -1,0 +1,7 @@
+{
+  "name": "Nadya Cahya - Enterprise AI",
+  "description": "A cloud-native, AI-integrated Hospital Information System (ERP) designed for financial compliance, clinical efficiency, and patient-centric security. Features CFO Dashboards, SCM Forecasting, and Patient Intake.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
